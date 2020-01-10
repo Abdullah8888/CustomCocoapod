@@ -1,0 +1,19 @@
+{
+  "name": "CustomCocoapod",
+  "version": "1.0.0",
+  "summary": "A super pod.",
+  "description": "This super pod was created by me.",
+  "homepage": "https://github.com/Abdullah8888/CustomCocoapod",
+  "license": "MIT",
+  "authors": {
+    "Jimoh Babatunde": "jimoh.abdullahi@konga.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/Abdullah8888/CustomCocoapod.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "CustomCocoapod"
+}

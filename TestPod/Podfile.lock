@@ -1,0 +1,16 @@
+PODS:
+  - CustomCocoapod (1.0.0)
+
+DEPENDENCIES:
+  - CustomCocoapod (from `../../CustomCocoapod`)
+
+EXTERNAL SOURCES:
+  CustomCocoapod:
+    :path: "../../CustomCocoapod"
+
+SPEC CHECKSUMS:
+  CustomCocoapod: c33dfbc1830c58f333e10adb872346385ffb51f6
+
+PODFILE CHECKSUM: 24098f978696791c133c643b8318206a63971517
+
+COCOAPODS: 1.7.5
